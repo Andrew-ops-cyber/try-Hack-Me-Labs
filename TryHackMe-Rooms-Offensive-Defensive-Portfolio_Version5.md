@@ -21,7 +21,8 @@ This repository documents my progress and learning from key TryHackMe rooms/labs
 
 ### 1. Junior Security Analyst Intro
 **Screenshot:**  
-![Junior Security Analyst Intro Lab Completion](Screenshot_Junior_Security_Analyst_Intro.png)  
+![Junior Security Analyst Intro Lab Completion](<img width="3041" height="858" alt="image" src="https://github.com/user-attachments/assets/3e893025-1087-4b81-9aa3-78c03206b4af" />
+)  
 **Description:**  
 This lab introduces the role and responsibilities of a Junior Security Analyst. It covers basic concepts such as threat analysis, security operations, and incident response workflows, giving foundational knowledge necessary for entry-level SOC positions.
 
