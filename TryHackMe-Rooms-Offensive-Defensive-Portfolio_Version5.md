@@ -45,7 +45,7 @@ This lab demonstrates the "Pyramid of Pain" model, which categorizes indicators 
 
 ### 4. Defense Security
 **Screenshot:**  
-![Defense Security Lab Completion](Screenshot_Defense_Security.png)  
+![Defense Security Lab Completion](<img width="3114" height="1231" alt="image" src="https://github.com/user-attachments/assets/1a1645a5-3a09-4f0c-a6f1-303b2eb5dc48" />)  
 **Description:**  
 The Defense Security lab focuses on defensive strategies, including network monitoring, use of SIEMs, and incident management. Completing this room provided practical skills in detecting and responding to threats within an organization.
 
