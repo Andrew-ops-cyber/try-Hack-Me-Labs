@@ -29,7 +29,8 @@ This lab introduces the role and responsibilities of a Junior Security Analyst. 
 
 ### 2. Cyber Kill Chain
 **Screenshot:**  
-![Cyber Kill Chain Lab Completion](Screenshot_Cyber_Kill_Chain.png)  
+![Cyber Kill Chain Lab Completion](<img width="3170" height="1253" alt="image" src="https://github.com/user-attachments/assets/5f13793f-a7a5-4705-b8f5-c0aba5d16a4a" />
+g)  
 **Description:**  
 The Cyber Kill Chain lab explores the stages of a cyber attack, from reconnaissance to actions on objectives. Completing this room helped reinforce the process attackers use and how defenders can disrupt attacks at different chain stages.
 
