@@ -39,7 +39,8 @@ The Cyber Kill Chain lab explores the stages of a cyber attack, from reconnaissa
 
 ### 3. Pyramid of Pain
 **Screenshot:**  
-![Pyramid of Pain Lab Completion](Screenshot_Pyramid_of_Pain.png)  
+![Pyramid of Pain Lab Completion](<img width="3120" height="1238" alt="image" src="https://github.com/user-attachments/assets/5cd24c83-9efe-4068-b90f-321237c3ad66" />
+)  
 **Description:**  
 This lab demonstrates the "Pyramid of Pain" model, which categorizes indicators of compromise by their impact on adversaries. The room emphasizes how defenders can make life difficult for attackers by focusing on higher-level indicators such as TTPs (Tactics, Techniques, and Procedures).
 
