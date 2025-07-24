@@ -60,20 +60,6 @@ This lab introduces offensive security concepts such as vulnerability assessment
 
 ---
 
-## How to Add More Labs
-
-1. Upload your new screenshot to the repository root.
-2. Add a new section in this README:
-    ````markdown
-    ### Lab Title
-    **Screenshot:**  
-    ![Short Description](Your_Screenshot_Name.png)  
-    **Description:**  
-    Briefly explain what the screenshot shows and why it’s important.
-    ````
-3. Commit and push your changes.
-
----
 
 **Project by Andrew Ramirez**  
 “Offense informs defense. Analysis empowers response.”
