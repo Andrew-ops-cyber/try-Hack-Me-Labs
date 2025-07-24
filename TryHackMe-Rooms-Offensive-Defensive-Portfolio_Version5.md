@@ -56,7 +56,8 @@ The Defense Security lab focuses on defensive strategies, including network moni
 
 ### 5. Offensive Security Intro
 **Screenshot:**  
-![Offensive Security Intro Lab Completion](Screenshot_Offensive_Security_Intro.png)  
+![Offensive Security Intro Lab Completion](<img width="3171" height="1252" alt="image" src="https://github.com/user-attachments/assets/9e769219-d4bb-41de-bf73-6415468441dc" />
+)  
 **Description:**  
 This lab introduces offensive security concepts such as vulnerability assessment, exploitation basics, and penetration testing methodologies. It includes hands-on exercises in identifying and exploiting vulnerabilities, essential for understanding attacker perspectives.
 
