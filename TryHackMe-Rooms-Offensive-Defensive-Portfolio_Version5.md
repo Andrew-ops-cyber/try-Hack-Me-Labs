@@ -63,6 +63,19 @@ This lab introduces offensive security concepts such as vulnerability assessment
 
 ---
 
+### . OpenCTI
+**Screenshot:**  
+OpenCTI Lab Completion<img width="3171" height="1252" alt="image" src="https://github.com/user-attachments/assets/9e769219-d4bb-41de-bf73-6415468441dc" />
+  
+**Description:**  
+Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, data modeling, and integrations with MITRE ATT&CK, MISP, and TheHive.
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-OpenCTI-red?logo=tryhackme)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intel-OpenCTI-blue?logo=cybersecurity)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-purple?logo=mitre)
+
+
+
 
 **Project by Andrew Ramirez**  
 “Offense informs defense. Analysis empowers response.”
