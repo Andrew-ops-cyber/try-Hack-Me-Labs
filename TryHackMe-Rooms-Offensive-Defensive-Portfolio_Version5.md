@@ -65,7 +65,7 @@ This lab introduces offensive security concepts such as vulnerability assessment
 
 ### . OpenCTI
 **Screenshot:**  
-OpenCTI Lab Completion<img width="3171" height="1252" alt="image" src="https://github.com/user-attachments/assets/9e769219-d4bb-41de-bf73-6415468441dc" />
+OpenCTI Lab Completion<img width="3190" height="1272" alt="image" src="https://github.com/user-attachments/assets/f03309f2-7c73-4456-ad33-5dbcc6ea00f4" />
   
 **Description:**  
 Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, data modeling, and integrations with MITRE ATT&CK, MISP, and TheHive.
