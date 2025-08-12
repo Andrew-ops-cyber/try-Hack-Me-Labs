@@ -74,6 +74,13 @@ Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, d
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intel-OpenCTI-blue?logo=cybersecurity)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-purple?logo=mitre)
 
+### . MISP
+**Screenshot:**  
+OpenCTI Lab Completion<img width="3190" height="1272" alt="image" src="https://github.com/user-attachments/assets/f03309f2-7c73-4456-ad33-5dbcc6ea00f4" />
+  
+**Description:**  
+Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, data modeling, and integrations with MITRE ATT&CK, MISP, and TheHive.
+
 
 
 
