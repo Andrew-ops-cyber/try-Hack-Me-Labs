@@ -63,7 +63,7 @@ This lab introduces offensive security concepts such as vulnerability assessment
 
 ---
 
-### . OpenCTI
+### 6. OpenCTI
 **Screenshot:**  
 OpenCTI Lab Completion<img width="3190" height="1272" alt="image" src="https://github.com/user-attachments/assets/f03309f2-7c73-4456-ad33-5dbcc6ea00f4" />
   
@@ -74,7 +74,7 @@ Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, d
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intel-OpenCTI-blue?logo=cybersecurity)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-purple?logo=mitre)
 
-### . MISP
+### 7. MISP
 **Screenshot:**  
 MISP Lab Completion<img width="3170" height="1258" alt="image" src="https://github.com/user-attachments/assets/c943075c-37b4-4a59-a5dd-fcfd6a3fa9da" />
   
