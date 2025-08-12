@@ -76,10 +76,10 @@ Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, d
 
 ### . MISP
 **Screenshot:**  
-OpenCTI Lab Completion<img width="3190" height="1272" alt="image" src="https://github.com/user-attachments/assets/f03309f2-7c73-4456-ad33-5dbcc6ea00f4" />
+MISP Lab Completion<img width="3170" height="1258" alt="image" src="https://github.com/user-attachments/assets/c943075c-37b4-4a59-a5dd-fcfd6a3fa9da" />
   
 **Description:**  
-Learn to deploy and navigate OpenCTI, mastering threat intelligence workflows, data modeling, and integrations with MITRE ATT&CK, MISP, and TheHive.
+Learned how to leverage MISP for threat intelligence sharing, including analyzing indicators of compromise (IOCs) and integrating them into SOC workflows.
 
 
 
